@@ -134,7 +134,7 @@ gboolean PanelTray::FilterTrayCallback(NaTray* tray, NaTrayChild* icon, PanelTra
   glib::String res_name;
   na_tray_child_get_wm_class(icon, &res_name, &res_class);
 
-  bool accept = FilterTray(title.Str(), res_name.Str(), res_class.Str());
+  bool accept = true;
 
   if (accept)
   {

@@ -250,7 +250,6 @@ if (ENABLE_X_SUPPORT)
                  test_panel_menu_view.cpp
                  test_panel_service.cpp
                  test_panel_style.cpp
-                 test_panel_tray.cpp
                  test_panel_view.cpp
                  test_places_group.cpp
                  test_preview_player.cpp
