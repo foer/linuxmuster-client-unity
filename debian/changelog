@@ -1,3 +1,9 @@
+unity (7.2.0+14.04.20140517-0ubuntu1-linuxmuster-systray1) trusty; urgency=low
+
+  * REENABLE SYSTRAY: Reenable Trayicons.
+
+ -- Dominik Foerderer <dominik.foerderer@windeck-gymnasium.de>  Sat, 17 May 2014 08:30:18 +0100
+
 unity (7.2.0+14.04.20140423-0ubuntu1.2) trusty-security; urgency=medium
 
   * SECURITY UPDATE: more lock screen bypass issues, and regression with
